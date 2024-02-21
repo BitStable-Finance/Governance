@@ -19,3 +19,18 @@
   - **Incentives for Participation**: Introduce rewards for active governance participants.
   
   - **Adaptive Governance Framework**: Allow for the evolution of the governance model based on community feedback and ecosystem needs.
+
+
+## Stabilizer Component
+
+**Dual-Token System**: Utilize a two-token system comprising DAII, a stablecoin pegged to the US dollar, and BSSB, a governance token.
+
+**DAII Generation**: Enable DAII creation by collateralizing approved assets, starting with 'ordi'.
+
+**Cross-Chain Functionality**: Bridge a portion of DAII to Ethereum for enhanced economic activities.
+
+**Over-Collateralization Requirement**: Ensure the value of collateral exceeds the DAII minted to mitigate volatility risks.
+
+**DAII Burning Mechanism**: Allow users to retrieve collateral by burning equivalent DAII, maintaining DAII's stability and balance.
+
+**Staking and Incentives**: Introduce mechanisms for staking DAII and BSSB, with incentives and mining boosts, subject to a lock-in period.
